@@ -2,8 +2,11 @@ Main()
 {
 	print "Hello Word"
 }
+<<<<<<< HEAD
 
 method()
 {
 	print 'name is Method'
 }
+=======
+>>>>>>> a26f3da2e7368766fd3783556913a6dc14c4772c
