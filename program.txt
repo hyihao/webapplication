@@ -1,0 +1,9 @@
+Main()
+{
+	print "Hello Word"
+}
+
+method()
+{
+	print 'name is Method'
+}
